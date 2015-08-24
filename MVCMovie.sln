@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCMovie", "MVCMovie\MVCMovie.csproj", "{7E99B976-3DBF-4CC6-842D-65FD4BFE052C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E99B976-3DBF-4CC6-842D-65FD4BFE052C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E99B976-3DBF-4CC6-842D-65FD4BFE052C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E99B976-3DBF-4CC6-842D-65FD4BFE052C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E99B976-3DBF-4CC6-842D-65FD4BFE052C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://antonioacosta.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MVCMovie\\MVCMovie.csproj
+		SccProjectName1 = MVCMovie
+		SccLocalPath1 = MVCMovie
+	EndGlobalSection
+EndGlobal
